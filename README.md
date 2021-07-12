@@ -1,5 +1,5 @@
 # LWA-1D
-1D LWA code for Valva and Nakamura (2021)
+1D LWA code for Valva and Nakamura (2021) which can be found [here](https://doi.org/10.1029/2020JD034501)
 
 ==========================================
 
